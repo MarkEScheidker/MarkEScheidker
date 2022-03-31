@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkEScheidker
 - 👀 I’m interested in computer science, engineering, programming, machine learning, and hardware design.
 - 🌱 I’m currently studying at UAH, and I'm constantly trying to build and improve my skills through personal projects and coding exercises.
-- 📫 If you want to contact me, my student email is mes0057@uah.edu, and I will most likely respond within a week.
+- 📫 If you want to contact me, my student email is mes0057@uah.edu
 
 <!---
 MarkEScheidker/MarkEScheidker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
